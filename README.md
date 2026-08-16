@@ -1,4 +1,4 @@
-# WinClassicThemeConfig-Schemes-Library
+# WinClassicThemeConfig Schemes Library
 Color/metric/font scheme library for WinClassicThemeConfig. Mirror available on Archive.org
 Library of color/metric/font schemes for WinClassicThemeConfig. Mirror available on Archive.org
 Each added scheme is intended to be error-free and faithful to the original. If an error is detected, it can be reported in the “Issues” section.
