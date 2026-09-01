@@ -1,5 +1,7 @@
 Windows Registry Editor Version 5.00
 
+; Source: https://www.deviantart.com/eluinstra/art/MSA-High-Contrast-Dark-Theme-for-Windows10-551692779
+
 [HKEY_CURRENT_USER\Control Panel\Appearance\ClassicSchemes\Eluinstra - MSA (HC)]
 "Color0"=dword:00464040
 "Color1"=dword:00181818
