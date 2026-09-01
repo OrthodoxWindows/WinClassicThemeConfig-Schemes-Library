@@ -1,5 +1,7 @@
 Windows Registry Editor Version 5.00
 
+; Source: https://www.deviantart.com/andredk/art/ANAMA-303085252
+
 [HKEY_CURRENT_USER\Control Panel\Appearance\ClassicSchemes\Andredk - Anama]
 "Color0"=dword:00222222
 "Color1"=dword:00222222
