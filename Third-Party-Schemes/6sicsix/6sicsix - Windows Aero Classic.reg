@@ -1,5 +1,7 @@
 Windows Registry Editor Version 5.00
 
+; Source: https://winclassic.net/post/901/thread
+
 [HKEY_CURRENT_USER\Control Panel\Appearance\ClassicSchemes\6sicsix - Win Aero Classic]
 "Color0"=dword:00e0e0e0
 "Color1"=dword:00a56e3a
