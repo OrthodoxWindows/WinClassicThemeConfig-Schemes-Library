@@ -8,6 +8,7 @@ You can submit a new third-party scheme via a pull request, following this namin
 
 Some types of schemes are built with fewer parameters than are supported by WinClassicThemeConfig; a specific approach exists for these types (for example, those dating back to Windows 3.x, or those designed for the Aerolite visual style in high-contrast mode).
 
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
