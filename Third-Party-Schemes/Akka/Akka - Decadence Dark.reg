@@ -1,5 +1,7 @@
 Windows Registry Editor Version 5.00
 
+; Source: https://web.archive.org/web/20160909070805/http://customize.org/xpthemes/46908
+
 [HKEY_CURRENT_USER\Control Panel\Appearance\ClassicSchemes\Akka - Decadence Dark]
 "Color0"=dword:002b2b2b
 "Color1"=dword:00d5d3c8
