@@ -1,5 +1,7 @@
 Windows Registry Editor Version 5.00
 
+; Source: ClassicServ Discord Server
+
 [HKEY_CURRENT_USER\Control Panel\Appearance\ClassicSchemes\Gliczide - [V1] Redent]
 "Color0"=dword:001111ff
 "Color1"=dword:00000020
