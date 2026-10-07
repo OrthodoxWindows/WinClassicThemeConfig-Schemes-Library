@@ -1,5 +1,7 @@
 Windows Registry Editor Version 5.00
 
+; Source: ClassicServ Discord Server
+
 [HKEY_CURRENT_USER\Control Panel\Appearance\ClassicSchemes\Gliczide - Adapta]
 "Color0"=dword:00514a37
 "Color1"=dword:00564c3c
