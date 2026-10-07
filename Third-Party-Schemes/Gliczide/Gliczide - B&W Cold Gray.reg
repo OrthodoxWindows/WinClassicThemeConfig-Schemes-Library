@@ -1,5 +1,7 @@
 Windows Registry Editor Version 5.00
 
+; Source: ClassicServ Discord Server
+
 [HKEY_CURRENT_USER\Control Panel\Appearance\ClassicSchemes\Gliczide - B&W Cold Gray]
 "Color0"=dword:008b8b8b
 "Color1"=dword:001d1d1d
