@@ -1,5 +1,7 @@
 Windows Registry Editor Version 5.00
 
+; Source: ClassicServ Discord Server
+
 [HKEY_CURRENT_USER\Control Panel\Appearance\ClassicSchemes\Gliczide - [V1] PurplX]
 "Color0"=dword:008c5e5e
 "Color1"=dword:002b1515
