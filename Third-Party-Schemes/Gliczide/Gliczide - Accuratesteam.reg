@@ -1,5 +1,7 @@
 Windows Registry Editor Version 5.00
 
+; Source: ClassicServ Discord Server
+
 [HKEY_CURRENT_USER\Control Panel\Appearance\ClassicSchemes\Gliczide - Accuratesteam]
 "Color0"=dword:009bb3a5
 "Color1"=dword:00294b38
