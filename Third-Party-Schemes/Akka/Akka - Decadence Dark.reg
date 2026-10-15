@@ -1,6 +1,7 @@
 Windows Registry Editor Version 5.00
 
 ; Source: https://web.archive.org/web/20160909070805/http://customize.org/xpthemes/46908
+; This scheme requires that the ITC Avant Garde Gothic LT Medium Caps.ttf, KROE0553.TTF, and STAN0757CAPS.TTF font files be installed on the system
 
 [HKEY_CURRENT_USER\Control Panel\Appearance\ClassicSchemes\Akka - Decadence Dark]
 "Color0"=dword:002b2b2b
