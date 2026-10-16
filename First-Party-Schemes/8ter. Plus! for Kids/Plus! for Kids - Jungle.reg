@@ -1,6 +1,6 @@
 ﻿Windows Registry Editor Version 5.00
 
-; This scheme requires that the MATISSE_.TTF files be installed on the system
+; This scheme requires that the MATISSE_.TTF font file be installed on the system
 
 [HKEY_CURRENT_USER\Control Panel\Appearance\ClassicSchemes\#PK - Jungle]
 "Color0"=dword:00b8d0e0
