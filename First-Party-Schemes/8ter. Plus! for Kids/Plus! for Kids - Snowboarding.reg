@@ -1,6 +1,6 @@
 ﻿Windows Registry Editor Version 5.00
 
-; This scheme requires that the RANSOM.TTF, NWGTHC.TTF, NWGTHCB.TTF, NWGTHCI.TTF font files be installed on the system
+; This scheme requires that the NWGTHC.TTF, NWGTHCB.TTF, NWGTHCI.TTF and RANSOM.TTF font files be installed on the system
 
 [HKEY_CURRENT_USER\Control Panel\Appearance\ClassicSchemes\#PK - Snowboarding]
 "Color0"=dword:0090c0b8
