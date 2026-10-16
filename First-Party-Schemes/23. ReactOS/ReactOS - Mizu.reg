@@ -1,6 +1,6 @@
 ﻿Windows Registry Editor Version 5.00
 
-; This scheme requires that SourceSansPro-Bold.ttf, SourceSansPro-BoldIt.ttf, SourceSansPro-It.ttf and SourceSansPro-Regular.ttf be installed on the system
+; This scheme requires that the SourceSansPro-Bold.ttf, SourceSansPro-BoldIt.ttf, SourceSansPro-It.ttf and SourceSansPro-Regular.ttf font files be installed on the system
 
 [HKEY_CURRENT_USER\Control Panel\Appearance\ClassicSchemes\#ROS - Mizu]
 "Color0"=dword:00c8d0d4
